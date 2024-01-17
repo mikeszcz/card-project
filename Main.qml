@@ -1,6 +1,8 @@
 import QtQuick
 import QtQuick.Controls
 
+//Should change this to be a cpp file using c++ objects
+
 Window {
     //Keep a border of 20px for cleanliness
     id: mainWindow
